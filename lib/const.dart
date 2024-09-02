@@ -1,6 +1,3 @@
 
 
-String comaiCodeApi = "AIzaSyDfWzNP_oDHiXIajJYaAq6EpFQsm376icU";
-//original AIzaSyAP1ll1nMtTlOaOopIwdi62n1f9GVut21w
-//AIzaSyDfWzNP_oDHiXIajJYaAq6EpFQsm376icU
-// cookchat AIzaSyDVbroRUE6B6hl9UFWR1caMvw6_vDSpilc
+String comaiCodeApi = "your_api_key";
